@@ -1,0 +1,10 @@
+logs
+*.log
+npm-debug.log*
+node_modules/
+*.swp
+.idea/
+.DS_Store
+build/
+# dist/
+# 也有多级，全局之类的，具体看文档……
