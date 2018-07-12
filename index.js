@@ -52,7 +52,7 @@ app.use(function (req, res, next) {
   next()
 })
 
-// 路由
+// 路由 xiugai
 routes(app)
 
 // 监听端口，启动程序
