@@ -6,5 +6,6 @@ node_modules/
 .idea/
 .DS_Store
 build/
+public/img/
 # dist/
 # 也有多级，全局之类的，具体看文档……
